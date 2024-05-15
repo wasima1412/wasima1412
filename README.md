@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasima Ibnat</h1>
-<h3 align="center">ML Engineer| Web Designer| Tech Enthusiast</h3>
+<h3 align="center">ML Engineer | Web Designer | Tech Enthusiast</h3>
 <p align="center">
  <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
  </p>
