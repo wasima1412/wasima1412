@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wasima Ibnat</h1>
 <h3 align="center">ML Engineer| Web Designer| Tech Enthusiast</h3>
+<p align="center">
  <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+ </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasima1412&label=Profile%20views&color=0e75b6&style=flat" alt="wasima1412" /> </p>
