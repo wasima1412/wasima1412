@@ -20,9 +20,9 @@
 
 - 📫 How to reach me **wasima1412@gmail.com**
 
-- 📄 Know about my experiences [I have extensive experience developing machine learning solutions for various industries, including finance, healthcare, and e-commerce. I have led teams in implementing state-of-the-art algorithms for predictive analytics, anomaly detection, and recommendation systems. My projects have involved data preprocessing, feature engineering, model training, and deployment, utilizing both supervised and unsupervised learning techniques. Additionally, I have contributed to research publications in machine learning conferences and journals, focusing on topics such as adversarial robustness and transfer learning.](I have extensive experience developing machine learning solutions for various industries, including finance, healthcare, and e-commerce. I have led teams in implementing state-of-the-art algorithms for predictive analytics, anomaly detection, and recommendation systems. My projects have involved data preprocessing, feature engineering, model training, and deployment, utilizing both supervised and unsupervised learning techniques. Additionally, I have contributed to research publications in machine learning conferences and journals, focusing on topics such as adversarial robustness and transfer learning.)
+- 📄 Know about my experiences : I have extensive experience developing machine learning solutions for various industries, including finance, healthcare, and e-commerce. I have led teams in implementing state-of-the-art algorithms for predictive analytics, anomaly detection, and recommendation systems. My projects have involved data preprocessing, feature engineering, model training, and deployment, utilizing both supervised and unsupervised learning techniques. Additionally, I have contributed to research publications in machine learning conferences and journals, focusing on topics such as adversarial robustness and transfer learning.
 
-- ⚡ Fun fact **Despite being deeply engrossed in the world of algorithms and data, I'm also an avid musician. I enjoy playing harmonium in my bathroom.**
+- ⚡ Fun fact **: Despite being deeply engrossed in the world of algorithms and data, I'm also an avid musician. I enjoy playing harmonium in my bathroom.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
