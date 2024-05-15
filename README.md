@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wasima Ibnat</h1>
 <h3 align="center">ML Engineer| Web Designer| Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14382770-Female-Programmer">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasima1412&label=Profile%20views&color=0e75b6&style=flat" alt="wasima1412" /> </p>
 
