@@ -3,6 +3,9 @@
 <p align="center">
  <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
  </p>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70707&height=60&lines=It%E2%80%99s+not+a+bug%2C+because;It%E2%80%99s+an+undocumented+feature!">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasima1412&label=Profile%20views&color=0e75b6&style=flat" alt="wasima1412" /> </p>
